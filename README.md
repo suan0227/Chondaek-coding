@@ -7,6 +7,12 @@
 
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py" />
+    <img id="py" src="https://skillicons.dev/icons?i=git,github,py" />
   </a>
 </p>
+
+
+#id {
+   weight: 5rem;
+   hegith : auto;
+}
