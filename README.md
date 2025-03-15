@@ -5,14 +5,12 @@
 
 # Language
 
-<p align="center">
+
    <a href="https://skillicons.dev">
     <img id="py" src="https://skillicons.dev/icons?i=py" />
   </a>
-</p>
+
 
 # Tools
-<p alignt="center">
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
