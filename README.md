@@ -1,2 +1,8 @@
 # Chondaek-coding
-ONLY FOR 촌댁의 취뽀를 위한 알고리즘 Repo --> 곧 수정함 ㄱㄷㄱㄷ
+---
+안녕하세요! 우리는 국립한밭대학교에 재학 중인 컴퓨터공학과 학생들입니다. 저희는 ONLY FOR OURS 의 취업을 위해 Coding Test 레포지토리를 생성했습니다!
+
+---
+#Language
+
+---
