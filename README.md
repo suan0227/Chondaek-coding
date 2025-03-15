@@ -4,6 +4,9 @@
 저희는 ONLY FOR OURS 의 취업을 위해 Coding Test 레포지토리를 생성했습니다!
 
 # Language
-우리는 사용합니다!
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py" />
+  </a>
+</p>
